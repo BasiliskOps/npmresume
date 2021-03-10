@@ -1,2 +1,2 @@
 # npmresume
-first nom package
+first npm package

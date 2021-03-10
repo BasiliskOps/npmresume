@@ -1,0 +1,23 @@
+{
+    "name": "Matthew Wilson",
+    "website": "https://github.com/BasiliskOps",
+    "linkedin": "https://www.linkedin.com/in/mwilsonai/",
+    "github": "BasiliskOps",
+    "email": "matthew.wilson00@outlook.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+    ],
+    "otherSkills": [
+        "Counter-insurgency",
+        "Mine detection",
+        "Land navigation"
+    ]
+}

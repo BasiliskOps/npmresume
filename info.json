@@ -4,7 +4,6 @@
     "linkedin": "https://www.linkedin.com/in/mwilsonai/",
     "github": "BasiliskOps",
     "email": "matthew.wilson00@outlook.com",
-    "resume": "",
     "proficientTechnologies": [
         "Javascript",
         "React",
@@ -13,9 +12,13 @@
         "Mongodb",
         "PostgreSQL",
         "Python",
-        "Django"
+        "Django",
+        "Flask",
+        "Jupyter Notebook"
     ],
     "otherSkills": [
+        "Ethical Hacking",
+        "Penetration Testing",
         "Counter-insurgency",
         "Mine detection",
         "Land navigation"
